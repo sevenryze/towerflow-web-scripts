@@ -1,2 +1,2 @@
-# towerflow-web-scripts
-The scripts for web apps.
+# create-towerflow-app
+The shameless idea copied from create-react-app
